@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.list-items-container {
+  display: flex;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.popular-heading {
+  font-family: 'Lobster';
+  font-size: 28px;
+  font-weight: bold;
+}
+.repository-item-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.loading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
